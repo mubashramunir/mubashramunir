@@ -1,0 +1,11 @@
+ultralytics==8.2.87
+opencv-python==4.9.0.80
+numpy==1.26.4
+pandas==2.2.2
+gradio==4.37.2
+# CPU-only torch/torchvision (will be resolved by pip according to platform)
+torch==2.3.1
+torchvision==0.18.1
+# For video handling on some platforms
+ffmpeg-python==0.2.0
+
